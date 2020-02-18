@@ -7,7 +7,7 @@ Tutorial - https://youtu.be/5UsGnjPYxLU
 ## Usage
 
 ```bash
-# Install nw.js
+# Install nw.js, this takes a while
 npm i nw@0.44.1-sdk nw-builder -D
 
 # If installed run
